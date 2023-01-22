@@ -1,2 +1,2 @@
-# mozilla-splash
-This repo contains the mdn web doc mozilla splash project
+# mozilla-splash-page
+This repo contains the mdn web doc mozilla splash page project
